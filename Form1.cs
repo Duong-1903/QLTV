@@ -7,14 +7,11 @@
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-
-        }
+       
 
         private void button1_Click_1(object sender, EventArgs e)
         {
-            MessageBox.Show("Làm bài đi");
+            MessageBox.Show(("Nhanh lên!!!") + MessageBox.Show("Làm bài đi"));
         }
     }
 }
